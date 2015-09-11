@@ -7,5 +7,6 @@ public class GitHubDemo1 {
 		System.out.println("服务器更新了");
 		System.out.println("我比服务器新");
 		System.out.println("克隆下来的，然后提交本地库啦");
+		System.out.println("我要制造冲突了");
 	}
 }
