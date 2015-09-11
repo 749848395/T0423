@@ -5,5 +5,6 @@ public class GitHubDemo1 {
 		System.out.println("welcome to atguigu,0423同学们好");
 		System.out.println("Git Hub send message to 0423");
 		System.out.println("服务器更新了");
+		System.out.println("我比服务器新");
 	}
 }
